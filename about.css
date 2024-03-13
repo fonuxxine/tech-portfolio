@@ -1,0 +1,21 @@
+.about-row {
+    display: grid;
+    grid-template-columns: 1fr 1.5fr;
+}
+
+.log-off {
+    height: 35px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.log-off div {
+    width: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.log-off img{
+    margin-right: 30px;
+}
